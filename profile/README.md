@@ -9,4 +9,4 @@ AI resume builder · ATS checker · Interview coach · Job tracker · 37 templat
 - **[placed-skills](https://github.com/Exidian-Tech/placed-skills)** — 26 AI career tools for Claude Code + Cursor
 - **[placed-mcp](https://github.com/Exidian-Tech/placed-mcp)** — MCP server for any AI IDE
 
-🌐 [exidian.tech](https://exidian.tech) · 💼 [LinkedIn](https://linkedin.com/company/exidian) · 📧 [contact@exidian.com](mailto:contact@exidian.com)
+🌐 [exidian.tech](https://exidian.tech) · 💼 [LinkedIn](https://linkedin.com/company/exidian) · 📧 [ajit@exidian.com](mailto:ajit@exidian.com)
