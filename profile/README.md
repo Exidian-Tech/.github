@@ -1,38 +1,12 @@
-# EXIDIAN Technologies
+## EXIDIAN Technologies
 
-**AI Applications + Platform Infrastructure**
+AI tools that help people get hired.
 
-We help companies build AI applications for their customers and set up the platform infrastructure so their teams can deploy, maintain, and scale those AI systems independently.
+### Placed — [placed.exidian.tech](https://placed.exidian.tech)
+AI resume builder · ATS checker · Interview coach · Job tracker · 37 templates · Free to start
 
-## What We Build
+### Open Source
+- **[placed-skills](https://github.com/Exidian-Tech/placed-skills)** — 26 AI career tools for Claude Code + Cursor
+- **[placed-mcp](https://github.com/Exidian-Tech/placed-mcp)** — MCP server for any AI IDE
 
-- **AI Applications** (customer-facing)
-- **Platform Infrastructure** (CI/CD, monitoring, observability)
-- **Team Capability** (training, documentation, enablement)
-
-## Services
-
-| Service | Timeline | Investment |
-|---------|----------|------------|
-| Discovery Workshop | 1 week | ₹75,000 |
-| AI Agent Pilot | 30 days | ₹5,00,000 |
-| Production Implementation | 60 days | ₹15,00,000 |
-| Monthly Retainer | Ongoing | ₹1,50,000/month |
-
-## Tech Stack
-
-**AI/ML:** LangChain, LangGraph, Claude, GPT-4, RAG Systems
-**Platform:** Terraform, Kubernetes, Docker, CI/CD
-**Cloud:** AWS, GCP, Azure
-**Observability:** Prometheus, Grafana, OpenTelemetry, Sentry
-
-## Links
-
-🌐 [Website](https://exidian.carrd.co)  
-💼 [LinkedIn](https://linkedin.com/company/exidian)  
-📧 [Contact](mailto:contact@exidian.com)
-
----
-
-**Founded 2025 | Based in Hyderabad, India**  
-CIN: U63119TS2025PTC193857
+🌐 [exidian.tech](https://exidian.tech) · 💼 [LinkedIn](https://linkedin.com/company/exidian) · 📧 [contact@exidian.com](mailto:contact@exidian.com)
